@@ -1,6 +1,18 @@
 # 📝 My Daily Todo Tasker
 
+![Python](https://img.shields.io/badge/Python-4B5563?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-4B5563?style=flat&logo=streamlit&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-4B5563?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-4B5563?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)
+
 **Streamlit**을 활용해 제작한 깔끔하고 직관적인 일상 관리용 웹 애플리케이션입니다. 미니멀한 UI를 통해 하루 일과를 정리하고, 공부 목표를 달성하며, 나만의 완벽한 하루를 디자인할 수 있도록 도와줍니다.
+
+---
+
+## 🎯 Project Overview & Core Experiences
+
+Microsoft Data School 과정 중 당일 학습한 파이썬의 핵심 개념들을 실제 웹 애플리케이션에 접목하고, AI 에이전트와의 고도화된 협업을 경험하기 위해 개발한 토이 프로젝트입니다.
+
+- **상태 관리 중심의 데이터 흐름(Data Flow) 이해**: `st.session_state`를 활용해 프론트엔드 UI의 입력값이 백엔드 자료구조에 실시간으로 매핑되고 변동되는 동적 웹 서비스의 라이프사이클을 이해했습니다.
+- **UI/UX 한계 극복 및 커스터마이징**: Streamlit이 제공하는 기본 위젯의 레이아웃 한계를 넘기 위해 인라인 HTML/CSS 컴포넌트를 결합, 시각적으로 정돈된 미니멀한 스타일의 카드 레이아웃을 설계했습니다.
+- **AI 에이전트 기반의 애자일 트러블슈팅**: 가상 환경(`venv`) 충돌, HTML 태그 렌더링 버그 등 개발 과정에서 마주한 다양한 예외 상황을 AI 에이전트와 유기적으로 소통하며 신속하게 해결하는 능력을 배양했습니다.
 
 ---
 
@@ -15,11 +27,11 @@
 
 ## 🛠️ Tech Stack & Architecture
 
-![Python](https://img.shields.io/badge/Python-4B5563?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-4B5563?style=flat&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-4B5563?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)
-
-- **Framework**: Streamlit
+- **Language & Framework**: Streamlit <sub>![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)</sub> / Python <sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</sub>
 - **State Management**: Streamlit Session State (`st.session_state`)
-- **Styling**: Streamlit Markdown 내 인라인 HTML/CSS 적용
+- **Styling Component**: Streamlit Markdown (인라인 HTML/CSS 내장형 레이아웃)
+- **Development Environment**: Visual Studio Code <sub>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</sub>
+- **Version Control**: Git <sub>![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</sub> / GitHub <sub>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)</sub>
 
 ---
 
@@ -78,7 +90,7 @@
    streamlit run app.py
    ```
 
-   ---
+---
    
 ## 🖥️ Application Screenshot
 
