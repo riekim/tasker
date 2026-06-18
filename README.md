@@ -1,8 +1,21 @@
-# 📝 My Daily Todo Tasker
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/641d04a0-822e-4703-9ea5-5269906b95cb" width="400" alt="My Daily Todo Tasker Main Screenshot" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-4B5563?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-4B5563?style=flat&logo=streamlit&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-4B5563?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-4B5563?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)
+<h1 align="center">My Daily Todo Tasker</h1>
 
-**Streamlit**을 활용해 제작한 깔끔하고 직관적인 일상 관리용 웹 애플리케이션입니다. 미니멀한 UI를 통해 하루 일과를 정리하고, 공부 목표를 달성하며, 나만의 완벽한 하루를 디자인할 수 있도록 도와줍니다.
+<p align="center">
+  <b>Streamlit</b>을 활용해 개발한 깔끔하고 직관적인 일상 관리용 웹 애플리케이션 <br>
+  미니멀한 UI를 통해 하루 일과를 정리하고, 공부 목표를 달성하며, 나만의 완벽한 하루를 디자인할 수 있도록 도와줍니다.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-4B5563?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-4B5563?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/VS_Code-4B5563?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-4B5563?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
